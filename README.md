@@ -13,3 +13,5 @@ developers : mohammad hosein khaksar
 testers :    mahdi samadi
              nima mohammadzadeh
              hassan najafi
+
+this application is in Flutter
