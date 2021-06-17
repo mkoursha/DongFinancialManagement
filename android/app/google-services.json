@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317924583507",
+    "project_id": "dong-1f3a7",
+    "storage_bucket": "dong-1f3a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317924583507:android:e7633c383719acc161bea6",
+        "android_client_info": {
+          "package_name": "com.example.dong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317924583507-0vtffj2fb9sghr338beaf2rk7t19bh35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dong",
+            "certificate_hash": "903e39fb68bbd531c6232603fd3f93eb7799e2c2"
+          }
+        },
+        {
+          "client_id": "317924583507-ie7mqtv7spf7vb4gm8mn25oa8fqp8j7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBceMqZb5w8r0dxws1bqphadCOSkMBTpS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317924583507-ie7mqtv7spf7vb4gm8mn25oa8fqp8j7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
